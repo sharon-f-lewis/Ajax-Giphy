@@ -1,0 +1,8 @@
+button, div, form, input, {
+  margin: 10px;
+}
+
+#gif-view {
+  height: 200px;
+  margin: 10px;
+}
